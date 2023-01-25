@@ -1,0 +1,26 @@
+Folder:
+	+ dataset: contain images for project
+
+------------------------------------------------
+Files:
+	+ Bao_cao_do_an.pdf: reported file PDF
+	+ Report_CS213.ppt: reported representation file PPT
+	+ shape_predictor_68_face_landmarks.dat: parameters data for 68 landmarks
+	+ simpleGrid.jpynb: source code which manipulates on image (lab file)
+	+ SwapOnVideo.jpynb: source code which operates on video and 
+					render face swapping video file (official file)
+	+ Mark-vid-input.mp4: input video for project
+	+ ResultSwapVid.mp4: output video after rendering file SwapOnVideo.jpynb
+
+
+------------------------------------------------
+How to use video
+
+Case 1: Directly open original video and output video to watch
+
+Case 2: You can watch both original video and output video on slide 12 in file representation.
+You can see 2 video on this slide. You click any button to watch corresponding video. If you
+want to compare (play both videos paralelly), you click any space on slide to play both videos.
+
+------------------------------------------------
+HAVE A NICE DAY!!!
